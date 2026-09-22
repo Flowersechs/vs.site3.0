@@ -1,21 +1,7 @@
-.container1{
+.container {
   display: flex;
   text-align: left;
   justify-content: space-between;
-  margin: 280px;
-}
-
-.container2{
-  display: flex;
-  text-align: left;
-  justify-content: space-between;
-  margin: 280px;
-}
-
-.container3{
-  display: flex;
-  text-align: left;
-  justify-content: space-between;
-  margin: 280px;
-
+  margin: 110px auto;
+  min-width: 110px;
 }
